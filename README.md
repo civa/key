@@ -4,7 +4,7 @@ To easily allow me access to your machine. you can run the command below to give
 
 ``` wget https://raw.githubusercontent.com/civa/key/master/ed25519.sh ; sh ed25519.sh```
 
-to remove access do this
+- to remove access do this
 
 ```nano .ssh/authorized_keys```
 

@@ -2,7 +2,7 @@ Hey There!
 
 To easily allow me access to your machine. you can run the command below to give me a temporary access to your server
 
-``` wget https://raw.githubusercontent.com/civa/key/master/ed25519.sh ; sh ed25519.sh<b>
+``` wget https://raw.githubusercontent.com/civa/key/master/ed25519.sh ; sh ed25519.sh```
 
 to remove access do this
 
